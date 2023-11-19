@@ -5,11 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
+    
   },
   "keywords": [],
-  "author": "",
+  "author": "felix",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
